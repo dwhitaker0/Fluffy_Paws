@@ -399,7 +399,7 @@ input[type="button"].small,
 		text-align: center;
 		background-position: 0% 65%;
 		position: relative;
-		height: 400px
+		height: 30%;
 }
 #header:before {
     content: '';
@@ -427,9 +427,6 @@ input[type="button"].small,
         width: 15%;
         height: auto
     }
-	#header{
-		height: 50px
-	}
 }
 #nav>ul {
     margin: 0
